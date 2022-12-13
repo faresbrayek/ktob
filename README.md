@@ -6,10 +6,19 @@
 <p> 🐱‍💻 Simple React Native app  🐱‍💻  </p>
 
 <h2>V1 Book Suggest App </h2>
-
+<div class="row">
+  <div class="column">
 <img src="https://i.ibb.co/3R3Fr9c/image.png" data-canonical-src="https://i.ibb.co/3R3Fr9c/image.png" style="max-width:100%;">
+     </div>
+  <div class="column">
+
 <img src="https://i.ibb.co/KwQJqwq/image.png" data-canonical-src="https://i.ibb.co/KwQJqwq/image.png" style="max-width:100%;">
+     </div>
+  <div class="column">
+
 <img src="https://i.ibb.co/ZLBnRjr/image.png" data-canonical-src="https://i.ibb.co/ZLBnRjr/image.png" style="max-width:100%;">
+  </div>
+</div>
 
 
 <h2>Usage</h2>
